@@ -6,10 +6,6 @@ body {
     font-family: 'Gloria Hallelujah', cursive;
 }
 
-#enter {
-    padding: 30px;
-}
-
 .granted {
     background-color: lightgray;
     color: #fff;
@@ -43,7 +39,7 @@ body {
 
 .content .tagline {
     text-align: center;
-    font-size: 1.7em;
+    font-size: 1.3em;
     color: grey;
 }
 
@@ -52,7 +48,7 @@ body {
 }
 
 #intressen .intressen ul {
-    font-size: 25px;
+    font-size: 20px;
 }
 
 #portfolio > .portfolio ul {
@@ -72,7 +68,7 @@ body {
 #kontakt .contact-links a {
     color: grey;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 20px;
     margin: 10px;
 }
 
