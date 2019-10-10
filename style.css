@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah&display=swap');
+
+body {
+    background-color: #fff;
+    margin: 0;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+#enter {
+    padding: 30px;
+}
+
+.granted {
+    background-color: lightgray;
+    color: #fff;
+}
+
+.denied {
+    background-color: red;
+    color: #fff;
+}
+
+.call-to-action {
+    background-image: url('https://wallpapertag.com/wallpaper/full/6/b/5/273265-cool-grey-background-2560x1440.jpg');
+    height: 40em;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.call-to-action h1, h3 {
+    color: grey;
+    text-align: center;
+    margin: 0;
+}
+
+.content {
+    margin: 100px 0px;
+}
+
+.content .tagline {
+    text-align: center;
+    font-size: 1.7em;
+    color: grey;
+}
+
+#intressen .intressen img {
+    height: auto;
+}
+
+#intressen .intressen ul {
+    font-size: 25px;
+}
+
+#portfolio > .portfolio ul {
+    padding-left: 0;
+
+}
+
+#portfolio > .portfolio ul li {
+    display: inline;
+}
+
+#kontakt .kontakt-links {
+    text-align: center;
+    padding: 25px;
+}
+
+#kontakt .contact-links a {
+    color: grey;
+    text-decoration: none;
+    font-size: 25px;
+    margin: 10px;
+}
+
+footer {
+    padding: 10px;
+    background-color: grey;
+    text-align: center;
+    color: white;
+}
+body, * {
+    margin: 0;
+}
+
+main {
+    width: 960px;
+    margin: 0 auto;
+    text-align: center;
+}
+
